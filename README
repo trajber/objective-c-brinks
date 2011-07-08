@@ -1,1 +1,6 @@
 de brinqs com obj-c
+
+***
+apt-get install gnustep-devel
+.bashrc: . /usr/share/GNUstep/Makefiles/GNUstep.sh
+
